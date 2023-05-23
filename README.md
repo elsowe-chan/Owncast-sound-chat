@@ -49,6 +49,8 @@ cliqué sur create webhook puis entré l'url de votre webhook et coché "when a 
 
 ![](https://i.imgur.com/asImyNk.png)
 
+note : n'oublié pas le port comme je les fais pour cette image. exemple : http://192.168.1.50:5000/webhook
+
 ![](https://i.imgur.com/3E1vBvL.png)
 
 
